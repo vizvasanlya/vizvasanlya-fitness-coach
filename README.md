@@ -1,14 +1,15 @@
-# Fitness Coach
+# Fitness Coach Planner
 
-A workout planning dashboard for training blocks, progress tracking, recovery signals, and habit consistency.
+Plan workouts, track training consistency, monitor recovery, and manage fitness goals.
 
-## Features
+## MVP features
 
-- Responsive dashboard layout
-- Interactive quick-add workflow
-- Filterable item list
-- Metric cards and insight panel
-- LocalStorage persistence for new items
+- Responsive single-page application
+- LocalStorage persistence
+- Search, filter, sort, and view switching
+- Add, edit, delete, complete, import, and export workflows
+- Metrics, details panel, activity log, and analytics view
+- Seed data tailored to the domain
 
 ## Run
 
@@ -16,4 +17,4 @@ A workout planning dashboard for training blocks, progress tracking, recovery si
 npm start
 ```
 
-Open `http://localhost:5173` in a browser.
+Open `http://localhost:5173`.
